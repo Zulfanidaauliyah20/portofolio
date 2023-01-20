@@ -1,0 +1,27 @@
+body {
+    background-color:#d6d6d2;
+}
+
+div {
+    background-color: transparent;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+table {
+    margin-left: 55px;
+    margin-right: 50px;
+}
+
+hr {
+    width: 600px;
+    
+}
+
+img {
+    margin-top: 30px;
+}
+
+table {
+    background-color: rgb(158, 193, 247);
+}
